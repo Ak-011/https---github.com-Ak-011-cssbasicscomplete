@@ -1,0 +1,16 @@
+h2+p{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+h2 ~ p {
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+}
+section > p {
+    background-color: green;
+}
+section p{
+    font-family: monospace;
+}
