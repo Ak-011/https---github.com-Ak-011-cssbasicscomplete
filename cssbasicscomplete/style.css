@@ -1,9 +1,21 @@
 *{
-    color: red;
+    color: green;
 }
 div{
     margin-left: 30px;
 }
 p{
     font-size: 40px;
+}
+#p2{
+    font-family: "Courier";
+}
+#p3{
+    margin-left: 20px;
+} 
+.osmpara{
+    background-color: lightpink;
+}
+.bigpara{
+    font-size: 50px;
 }
