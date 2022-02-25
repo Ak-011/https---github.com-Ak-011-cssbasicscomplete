@@ -1,0 +1,16 @@
+#para1{
+    font-size: 5vh; /*em,vh,pt,px*/
+}
+#para2{
+    font-family: sans-serif;
+    /*we can use more then one font if one is not availbale it wil
+    move next font */
+}
+#para3{
+    font-style: italic;
+    font-weight: bold;
+}
+#para4{
+    word-spacing: 1px;
+    letter-spacing: 2px;
+}
