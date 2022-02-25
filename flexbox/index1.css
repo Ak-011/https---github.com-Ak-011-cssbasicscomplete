@@ -1,0 +1,26 @@
+.container{
+    background-color: lightpink;
+    display: flex; 
+   /* flex-direction: column-reverse;*/
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+   align-content: space-between;
+   height: 400px;
+}
+
+.item{
+    background-color: darkcyan;
+    margin: 20px;
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    font-size: 30px;
+}
+#item12{
+    order: -2
+}
+#item13{
+    order: 1
+}
